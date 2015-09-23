@@ -1,0 +1,17 @@
+#title {
+	float: left;
+	text-align: left;
+	margin: 15px 0px 0px 10px;
+}
+#topright {
+	margin: 15px 10px 0px 0px;
+	float: right;
+}
+#navigation {
+	margin: 5px 0px 0px 210px;
+	padding: 10px;
+}
+#navigation li a {
+	padding-bottom: 10px;
+	background-color: #ffffff;
+}
