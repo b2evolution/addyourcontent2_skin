@@ -7,7 +7,6 @@ Link to skin: http://skins.b2evolution.net/addyourcontent2-skin
 #### v1.1.1
 
 - Skin name fix
-- New skinshot
 
 #### v1.1.
 
